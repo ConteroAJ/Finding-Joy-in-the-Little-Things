@@ -155,12 +155,12 @@ a {
     }
   
     section {
-      padding: 1.5rem 1rem;
+      padding: 1rem 1rem;
     }
   
     nav {
       flex-wrap: wrap;
-      gap: 10px;
+      gap: 15px;
     }
   
     nav a {
